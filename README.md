@@ -58,7 +58,7 @@
   </tbody>
 </table>
 
-<a href="https://www.buymeacoffee.com/Tavinn0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 15% !important;width: 15% !important;" ></a>
+
 
 > _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard 'Generate lobe style product README by MAGIC')_
 
